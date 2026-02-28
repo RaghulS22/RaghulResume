@@ -1,0 +1,4 @@
+# enforce LF in repo and normalise on checkout
+* text=auto
+*.css text eol=lf
+*.json text eol=lf
