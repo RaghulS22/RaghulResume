@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { ArrowRight, Code, Smartphone, Database } from 'lucide-react';
+import { ArrowRight, Code, Smartphone, Database, Layers, Network } from 'lucide-react';
 import { personalInfo } from '../data/resumeData';
 
 const Home = () => {
@@ -37,12 +37,12 @@ const Home = () => {
             <div className="card text-center">
               <div className="flex justify-center mb-4">
                 <div className="bg-blue-100 p-4 rounded-full">
-                  <Code className="h-8 w-8 text-primary" />
+                  <Network className="h-8 w-8 text-primary" />
                 </div>
               </div>
               <h3 className="text-xl font-semibold mb-3">Backend Development</h3>
               <p className="text-gray-600">
-                Building scalable and robust backend services with Java Spring Boot, 
+                Building scalable and robust backend services with C# and ASP.NET Web API, 
                 microservices architecture, and RESTful APIs.
               </p>
             </div>
@@ -51,13 +51,13 @@ const Home = () => {
             <div className="card text-center">
               <div className="flex justify-center mb-4">
                 <div className="bg-purple-100 p-4 rounded-full">
-                  <Smartphone className="h-8 w-8 text-secondary" />
+                  <Layers className="h-8 w-8 text-secondary" />
                 </div>
               </div>
-              <h3 className="text-xl font-semibold mb-3">Android Development</h3>
+              <h3 className="text-xl font-semibold mb-3">Frontend Development</h3>
               <p className="text-gray-600">
-                Creating native Android applications with Kotlin and Java, 
-                following modern Android best practices and Material Design.
+                Creating responsive and interactive user interfaces with React.js and TypeScript, 
+                following modern frontend best practices and design principles.
               </p>
             </div>
 
@@ -71,7 +71,7 @@ const Home = () => {
               <h3 className="text-xl font-semibold mb-3">Database Design</h3>
               <p className="text-gray-600">
                 Designing efficient database schemas and optimizing queries 
-                for PostgreSQL, MySQL, MongoDB, and Redis.
+                for MySQL, MongoDB, and KQL.
               </p>
             </div>
           </div>

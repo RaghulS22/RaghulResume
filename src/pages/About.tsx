@@ -110,11 +110,11 @@ const About = () => {
             <h2 className="text-xl font-semibold mb-4">Quick Stats</h2>
             <div className="space-y-3">
               <div>
-                <p className="text-2xl font-bold text-primary">5+</p>
+                <p className="text-2xl font-bold text-primary">3+</p>
                 <p className="text-gray-600">Years Experience</p>
               </div>
               <div>
-                <p className="text-2xl font-bold text-primary">20+</p>
+                <p className="text-2xl font-bold text-primary">5+</p>
                 <p className="text-gray-600">Projects Completed</p>
               </div>
               <div>

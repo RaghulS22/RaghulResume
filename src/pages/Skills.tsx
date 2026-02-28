@@ -37,7 +37,7 @@ const Skills = () => {
         <div className="space-y-4">
           <div>
             <div className="flex justify-between mb-1">
-              <span className="text-gray-700 font-medium">Java & Spring Boot</span>
+              <span className="text-gray-700 font-medium">C# & ASP.NET Web API</span>
               <span className="text-gray-600">Expert</span>
             </div>
             <div className="w-full bg-gray-200 rounded-full h-3">
@@ -47,7 +47,7 @@ const Skills = () => {
 
           <div>
             <div className="flex justify-between mb-1">
-              <span className="text-gray-700 font-medium">Android Development</span>
+              <span className="text-gray-700 font-medium">React-TS</span>
               <span className="text-gray-600">Advanced</span>
             </div>
             <div className="w-full bg-gray-200 rounded-full h-3">
@@ -88,7 +88,7 @@ const Skills = () => {
       </div>
 
       {/* Certifications */}
-      <div className="mt-12 card bg-gradient-to-r from-primary to-secondary text-white">
+      {/*<div className="mt-12 card bg-gradient-to-r from-primary to-secondary text-white">
         <h2 className="text-2xl font-bold mb-4">Certifications & Learning</h2>
         <div className="grid md:grid-cols-2 gap-4">
           <div className="bg-white bg-opacity-20 rounded-lg p-4">
@@ -108,7 +108,7 @@ const Skills = () => {
             <p className="text-sm opacity-90">Certification</p>
           </div>
         </div>
-      </div>
+      </div>*/}
     </div>
   );
 };
