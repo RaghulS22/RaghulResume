@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { ArrowRight, Code, Smartphone, Database, Layers, Network } from 'lucide-react';
+import { ArrowRight, Database, Layers, Network } from 'lucide-react';
 import { personalInfo } from '../data/resumeData';
 
 const Home = () => {
