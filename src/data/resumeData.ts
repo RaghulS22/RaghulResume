@@ -10,7 +10,7 @@ export const personalInfo: PersonalInfo = {
     location: 'Electronic city phase-2, Bengaluru, Karnataka',
     linkedin: 'https://www.linkedin.com/in/raghul24',
     github: 'https://github.com/RaghulS22',
-    website: 'http://localhost:4173/about'
+    website: 'https://raghul-resume.vercel.app/'
   }
 };
 

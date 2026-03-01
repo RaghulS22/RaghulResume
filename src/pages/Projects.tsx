@@ -82,7 +82,7 @@ const Projects = () => {
           Check out my GitHub profile for more projects and open-source contributions.
         </p>
         <a
-          href="https://github.com/yourusername"
+          href="https://github.com/RaghulS22"
           target="_blank"
           rel="noopener noreferrer"
           className="btn-primary inline-flex items-center"
